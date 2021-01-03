@@ -20,6 +20,8 @@ Keywords:  Machine Learning, Deep Learning, Explainability, Artificial Intellige
 
 ## Descripción de los archivos y documentos.
 
+* VGG16_images: Imágenes .jpg que han sido utilizadas en el modelo clasificador de imágenes VGG16.
+
 * datasets: Ficheros .csv con los datasets empleados.
 
 * python: Programas .ipynb con la implementación de los modelos y las SHAP values. Tendremos tres programas:

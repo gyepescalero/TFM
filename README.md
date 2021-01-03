@@ -20,8 +20,10 @@ Keywords:  Machine Learning, Deep Learning, Explainability, Artificial Intellige
 
 ## Descripción de los archivos y documentos.
 
-* python:
+* datasets: Ficheros .csv con los datasets empleados.
 
-* pdf:
+* python: Programas .ipynb
 
-* datasets:
+* Memoria_TFM:
+
+

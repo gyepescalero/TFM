@@ -22,8 +22,8 @@ Keywords:  Machine Learning, Deep Learning, Explainability, Artificial Intellige
 
 * datasets: Ficheros .csv con los datasets empleados.
 
-* python: Programas .ipynb
+* python: Programas .ipynb con la implementación de los modelos y las SHAP values.
 
-* Memoria_TFM:
+* Memoria TFM: Documento .pdf con la memoria final del TFM, que recopila todas las etapas del proyecto.
 
 

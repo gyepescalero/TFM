@@ -22,7 +22,10 @@ Keywords:  Machine Learning, Deep Learning, Explainability, Artificial Intellige
 
 * datasets: Ficheros .csv con los datasets empleados.
 
-* python: Programas .ipynb con la implementación de los modelos y las SHAP values.
+* python: Programas .ipynb con la implementación de los modelos y las SHAP values. Tendremos tres programas:
+  * SimpleModel-Iris: Programa para el modelo sencillo del dataset Iris.
+  * ComplexModel-CensusIncome: Programa para el modelo complejo del dataset Census Income.
+  * ImageModel-VGG16: Programa para el modelo clasificador de imágenes VGG16.
 
 * Memoria TFM: Documento .pdf con la memoria final del TFM, que recopila todas las etapas del proyecto.
 

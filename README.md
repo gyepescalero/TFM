@@ -8,7 +8,7 @@ El Deep Learning o Aprendizaje Profundo se aplica cada vez más en la toma de de
 
 Comenzaremos con un modelo sencillo, con el que introduciremos los conceptos básicos de las SHAP values y aprenderemos a implementarlas en un entorno \textit{Python}. A continuación, desarrollaremos, de la forma más profesional posible, un estudio de interpretabilidad de un modelo de caja negra, sacando el máximo provecho a los resultados de la explicación del modelo. Finalmente, ejemplificaremos y probaremos la efectividad de la SHAP values en la interpretación de arquitecturas de reconocimiento visual profundo. 
 
-$\textbf{Palabras clave}$: Aprendizaje Automático, Aprendizaje Profundo, Explicabilidad, Inteligencia Artificial, Valores SHAP.
+Palabras clave: Aprendizaje Automático, Aprendizaje Profundo, Explicabilidad, Inteligencia Artificial, Valores SHAP.
 
 ## Abstract 
 
@@ -16,4 +16,12 @@ Deep Learning is increasingly applied in decision making and analytical problems
 
 We will start with a simple model, with which we will introduce the basic concepts of SHAP values and learn to implement them in a \textit{Python} environment. Next, we will develop, in the most professional way possible, an interpretability study of a black box model, making the most of the model explanation results. Finally, we will exemplify and test the effectiveness of SHAP values in the interpretabilty of deep visual recognition architectures.
 
-\textbf{Keywords}:  Machine Learning, Deep Learning, Explainability, Artificial Intelligence, SHAP Values.
+Keywords:  Machine Learning, Deep Learning, Explainability, Artificial Intelligence, SHAP Values.
+
+## Descripción de los archivos y documentos.
+
+* python:
+
+* pdf:
+
+* datasets:
